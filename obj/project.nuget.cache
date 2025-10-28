@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yQtHfGd2kQc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jkerr\\Documents\\Projects\\HealthService\\HealthService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jkerr\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.10\\microsoft.aspnetcore.openapi.9.0.10.nupkg.sha512",
+    "C:\\Users\\jkerr\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
