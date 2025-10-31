@@ -1,0 +1,1 @@
+﻿To start the firestore emulator, run ` firebase emulators:start`

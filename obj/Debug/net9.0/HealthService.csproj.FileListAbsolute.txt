@@ -30,3 +30,7 @@ C:\Users\jkerr\Documents\Projects\HealthService\obj\Debug\net9.0\refint\HealthSe
 C:\Users\jkerr\Documents\Projects\HealthService\obj\Debug\net9.0\HealthService.pdb
 C:\Users\jkerr\Documents\Projects\HealthService\obj\Debug\net9.0\HealthService.genruntimeconfig.cache
 C:\Users\jkerr\Documents\Projects\HealthService\obj\Debug\net9.0\ref\HealthService.dll
+C:\Users\jkerr\Documents\Projects\HealthService\obj\Debug\net9.0\HealthService.sourcelink.json
+C:\Users\jkerr\Documents\Projects\HealthService\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jkerr\Documents\Projects\HealthService\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jkerr\Documents\Projects\HealthService\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
