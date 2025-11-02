@@ -1,10 +1,27 @@
-﻿namespace HealthService.Models;
+﻿using Google.Cloud.Firestore;
 
-public class Food(string name, int calories, DateTime timeEaten)
+namespace HealthService.Models;
+
+[FirestoreData]
+public class Food
 {
-    public string Name { get; set; } = name;
+    // Firestore needs a parameterless constructor
+    public Food() { }
 
-    public int Calories { get; set; } = calories;
+    // Optional: a convenience constructor for your own use
+    public Food(string name, int calories, DateTime timeEaten)
+    {
+        Name = name;
+        Calories = calories;
+        TimeEaten = timeEaten;
+    }
     
-    public DateTime TimeEaten { get; set; } = timeEaten;
+    [FirestoreProperty]
+    public string Name { get; set; }
+
+    [FirestoreProperty]
+    public int Calories { get; set; }
+    
+    [FirestoreProperty]
+    public DateTime TimeEaten { get; set; }
 }
