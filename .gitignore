@@ -73,6 +73,6 @@ firestore-debug.log
 
 obj/
 
-.idea
+.idea/
 
 bin/
