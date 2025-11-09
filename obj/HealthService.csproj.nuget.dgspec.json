@@ -46,7 +46,7 @@
           "dependencies": {
             "Google.Cloud.Firestore": {
               "target": "Package",
-              "version": "[3.11.0, )"
+              "version": "[3.8.0, )"
             },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",

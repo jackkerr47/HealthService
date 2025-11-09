@@ -1,0 +1,2 @@
+﻿ls;
+firebase emulators:start;

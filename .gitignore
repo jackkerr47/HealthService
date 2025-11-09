@@ -70,3 +70,9 @@ node_modules/
 
 firebase-debug.log
 firestore-debug.log
+
+obj/
+
+.idea
+
+bin/
